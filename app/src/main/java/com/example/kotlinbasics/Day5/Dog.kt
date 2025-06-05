@@ -1,4 +1,4 @@
-package com.example.kotlinbasics.Day6
+package com.example.kotlinbasics.Day5
 
 class Dog (var name : String , val breed : String , var age : Int = 1 ) {
 
