@@ -1,0 +1,10 @@
+Finally, Into Jetpack Compose ( UI Things )
+
+1. Xml and Jetpack Compose (Basic Overview)
+2. Creating a project and understanding the code with new knowledge gained all long now.
+3. Creating Composables ( own ) ; Basic Kotlin Function
+    with @Compose annotation
+4. Understanding Column and Rows to handle multiples component items ini screen.
+5. Oultined Text Fields and Annonymous Functions.
+6. Preview Composables for getting UI liveview.
+    It's also basic kotlin function followed by @Preview and @Composable.
